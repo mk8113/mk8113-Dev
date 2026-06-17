@@ -20,7 +20,7 @@ Student based in Brussels 🇧🇪
 
 | Project | Description | Stack |
 |---|---|---|
-| [🤖 Discord Bot](https://github.com/TON-mk8113/discord-moderation-bot) | Full moderation bot + AI + mini-games | Python, discord.py, OpenAI |
+| [🤖 Discord Bot](https://github.com/mk8113/discord-moderation-bot) | Full moderation bot + AI + mini-games | Python, discord.py, OpenAI |
 | [💰 Price Scraper](https://github.com/mk8113/price-scraper-discord) | Price monitoring with Discord alerts | Python, BeautifulSoup |
 | [🚨 Alarm System](https://github.com/mk8113/pico-alarm-system) | PIR motion alarm with Discord notifications | MicroPython, Raspberry Pi Pico W |
 
